@@ -1,0 +1,28 @@
+{
+  "generator-ngx-rocket": {
+    "version": "8.1.1",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "notesApp",
+      "target": ["web"],
+      "pwa": false,
+      "ui": "bootstrap",
+      "auth": false,
+      "lazy": true,
+      "angulartics": false,
+      "languages": ["en-US"],
+      "tools": ["prettier", "hads"],
+      "utility": [],
+      "deploy": "none",
+      "projectName": "notes-app",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}
